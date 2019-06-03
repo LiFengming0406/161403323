@@ -1,10 +1,5 @@
-//
+
 //  BPlusTree.h
-//  BPlusTree
-//
-//  Created by Wuyixin on 2017/8/4.
-//  Copyright © 2017年 Coding365. All rights reserved.
-//
  
 #ifndef BPlusTree_h
 #define BPlusTree_h
